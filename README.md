@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josiahwebb
+- 👀 I’m interested in web3 technologies
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on anything really
+- 📫 You can reach me on twitter @0xjosiah
